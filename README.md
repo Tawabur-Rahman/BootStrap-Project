@@ -1,0 +1,1 @@
+<h3>This project is a responsive web template built using Bootstrap, designed to be clean, modern, and user-friendly. It features custom-styled Bootstrap components, ensuring consistency across devices and browsers</h3>
